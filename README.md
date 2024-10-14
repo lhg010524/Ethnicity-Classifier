@@ -9,7 +9,7 @@
 
 1. 데이터 셋 준비
    - [UTKFACE 데이터셋](https://susanqq.github.io/UTKFace/) 준비
-   - 전처리 된 데이터셋은 [dataset]()에서 확인 가능
+   - 전처리 된 데이터셋은 dataset에서 확인 가능(데이터셋은 branch를 main에서 master로 변경 후 확인 가능)
 
 2. 학습 파일 다운, 학습
   ```
