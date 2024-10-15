@@ -21,3 +21,5 @@ python train.py
 ```
 python test.py
 ```
+
+프로젝트 설명 https://lhg010524.tistory.com/7
